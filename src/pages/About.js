@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import PText from '../components/PText';
 import Button from '../components/Button';
-import AboutImg from '../assets/images/about-page-img.png';
+import AboutImg from '../assets/images/IMG_9926.JPG';
 import AboutInfoItem from '../components/AboutInfoItem';
 import ContactBanner from '../components/ContactBanner';
 
@@ -113,7 +113,7 @@ export default function About() {
                 items={['Bachelor of Arts from Washburn University']}
               />
               <AboutInfoItem
-                title="Full Stack Bootcamp"
+                title="Bootcamp"
                 items={['University Of Kansas']}
               />
             </div>
