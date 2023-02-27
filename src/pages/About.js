@@ -5,6 +5,7 @@ import Button from '../components/Button';
 import AboutImg from '../assets/images/IMG_9926.JPG';
 import AboutInfoItem from '../components/AboutInfoItem';
 import ContactBanner from '../components/ContactBanner';
+import Resume from '../assets/resume/resume.pdf'
 
 const AboutPageStyles = styled.div`
   padding: 20rem 0 10rem 0;
@@ -94,7 +95,10 @@ export default function About() {
                   I looking forward to the journey of coding
                 </PText>
               </div>
-              <Button btnText="Download CV" btnLink="#" />
+              <Button btnText="Download Resume" path='' />
+              <a href={Resume} download className="download">
+                Download Resume
+              </a>
             </div>
             <div className="right">
               <img src={AboutImg} alt="me" />

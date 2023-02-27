@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import HeroImg from '../assets/images/IMG_9926.JPG';
 import Button from './Button';
-import PText from './PText';
+
 
 const HeroStyles = styled.div`
   .hero {
