@@ -11,7 +11,7 @@ const projects = [
     name: 'Code-Net',
     link: 'https://protected-wave-25502.herokuapp.com/',
     desc:
-      'Team Project: Worked with a team to create a small scale social media site geared towards coders. LINK: https://protected-wave-25502.herokuapp.com/ ',
+      'Team Project: Worked with a team to create a small scale social media site geared towards coders. ',
     img: CodeNetImg,
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     name: 'Movie Traker',
     link: 'https://angel-pup.github.io/movie-vibes/',
     desc:
-      'Team Project: Worked with a team to create a site were users can rank their favorite movies. LINK: https://angel-pup.github.io/movie-vibes/',
+      'Team Project: Worked with a team to create a site were users can rank their favorite movies. ',
     img: MovieTrackerImg,
   },
   {
@@ -27,7 +27,7 @@ const projects = [
     name: 'Note Taker',
     link: 'https://young-waters-53119.herokuapp.com/',
     desc:
-      'App that allows user to write and save notes. LINK: https://young-waters-53119.herokuapp.com/',
+      'App that allows user to write and save notes. ',
     img: NoteTakerImg,
   },
   {
@@ -35,7 +35,7 @@ const projects = [
     name: 'Password Generator',
     link: 'https://sweinkauf.github.io/password-generator/',
     desc:
-      'App the generates a unique password for the user. LINK: https://sweinkauf.github.io/password-generator/',
+      'App the generates a unique password for the user. ',
     img: passwordGenImg,
   },
   {
@@ -43,7 +43,7 @@ const projects = [
     name: 'Old Portfolio',
     link: 'https://sweinkauf.github.io/The_Portfolio-of-Scott-Weinkauf/',
     desc:
-      'See how far I have come. This was my first Portfolio that only used Html and CSS. LINK: https://sweinkauf.github.io/The_Portfolio-of-Scott-Weinkauf/',
+      'See how far I have come. This was my first Portfolio that only used Html and CSS.',
     img: oldPortfolioImg,
   },
 ];

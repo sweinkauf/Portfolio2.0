@@ -5,6 +5,7 @@ import PText from './PText';
 
 const ItemStyles = styled.div`
   padding: 2rem;
+  color: var(--white);
   background-color: var(--deep-dark);
   display: flex;
   align-items: center;

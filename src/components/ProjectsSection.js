@@ -11,6 +11,7 @@ SwiperCore.use([Navigation]);
 
 const ProjectSectionStyle = styled.div`
   padding: 10rem 0;
+  color: var(--white);
   .projects__allItems {
     display: flex;
     gap: 3rem;

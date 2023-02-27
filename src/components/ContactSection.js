@@ -7,6 +7,7 @@ import SectionTitle from './SectionTitle';
 
 const ContactSectionStyle = styled.div`
   padding: 10rem 0;
+  color: var(--white);
   .contactSection__wrapper {
     display: flex;
     gap: 5rem;

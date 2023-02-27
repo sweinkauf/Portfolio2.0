@@ -7,6 +7,7 @@ import AboutImg from '../assets/images/IMG_9926.JPG';
 
 const AboutSectionStyles = styled.div`
   padding: 10rem 0;
+  color: var(--white);
   .container {
     display: flex;
     align-items: center;

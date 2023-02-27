@@ -5,6 +5,7 @@ import PText from './PText';
 
 const FooterStyle = styled.div`
   background-color: var(--deep-dark);
+  color: var(--white);
   padding-top: 10rem;
   .container {
     display: flex;

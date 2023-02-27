@@ -7,6 +7,7 @@ import ProjectItem from '../components/ProjectItem';
 
 const ProjectStyle = styled.div`
   padding: 10rem 0;
+  color: var(--white);
   .projects__allItems {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
