@@ -39,6 +39,7 @@ const ProjectItemStyles = styled.div`
 export default function ProjectItem({
   img = ProjectImg,
   title = 'Project Name',
+  link = 'https://sweinkauf.github.io/The_Portfolio-of-Scott-Weinkauf/',
   desc = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
 }) {
   return (
@@ -47,9 +48,12 @@ export default function ProjectItem({
         <img src={img} alt="project img" />
       </Link>
       <div className="projectItem__info">
-        <Link to="#">
-          <h3 className="projectItem__title">{title}</h3>
-        </Link>
+          
+          <p>
+            <a href={link} target="_blank">
+            <h3 className="projectItem__title">{title}</h3>
+            </a>
+          </p>
         <p className="projectItem__desc">{desc}</p>
       </div>
     </ProjectItemStyles>

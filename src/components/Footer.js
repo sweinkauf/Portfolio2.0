@@ -64,7 +64,7 @@ export default function Footer() {
         </div>
         <div className="footer__col2">
           <FooterCol
-            heading="Important Links"
+            heading="Website Links"
             links={[
               {
                 title: 'Home',

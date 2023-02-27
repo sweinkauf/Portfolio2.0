@@ -95,9 +95,9 @@ export default function About() {
                   I looking forward to the journey of coding
                 </PText>
               </div>
-              <Button btnText="Download Resume" path='' />
+              <Button btnText=" ⬇️ Download Resume" path='' />
               <a href={Resume} download className="download">
-                Download Resume
+                download resume
               </a>
             </div>
             <div className="right">
@@ -117,8 +117,8 @@ export default function About() {
                 items={['Bachelor of Arts from Washburn University']}
               />
               <AboutInfoItem
-                title="Bootcamp"
-                items={['University Of Kansas']}
+                title="Fullstack"
+                items={['University Of Kansas Bootcamp']}
               />
             </div>
             <div className="about__info__item">

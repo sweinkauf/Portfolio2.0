@@ -7,7 +7,6 @@ import SectionTitle from './SectionTitle';
 import 'swiper/swiper-bundle.min.css';
 import projects from '../assets/data/projects';
 
-// install Swiper modules
 SwiperCore.use([Navigation]);
 
 const ProjectSectionStyle = styled.div`
@@ -57,7 +56,6 @@ const ProjectSectionStyle = styled.div`
 `;
 
 export default function ProjectsSection() {
-  // console.log(projects);
   return (
     <ProjectSectionStyle>
       <div className="container">
@@ -68,15 +66,12 @@ export default function ProjectsSection() {
             slidesPerView={1}
             navigation
             breakpoints={{
-              // when window width is >= 640px
               640: {
                 slidesPerView: 1,
               },
-              // when window width is >= 768px
               768: {
                 slidesPerView: 2,
               },
-              // when window width is >= 1200px
               1200: {
                 slidesPerView: 3,
               },
