@@ -95,11 +95,11 @@ export default function About() {
                   I looking forward to the journey of coding
                 </PText>
               </div>
-              <Button btnText=" ⬇️ Download Resume" path='' />
               <a href={Resume} download className="download">
-                download resume
+            <button>Download Resume</button>
               </a>
             </div>
+            
             <div className="right">
               <img src={AboutImg} alt="me" />
             </div>

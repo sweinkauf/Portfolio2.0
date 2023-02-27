@@ -51,7 +51,7 @@ export default function ProjectItem({
           
           <p>
             <a href={link} target="_blank">
-            <h3 className="projectItem__title">{title}</h3>
+              <h3 className="projectItem__title">{title}</h3>
             </a>
           </p>
         <p className="projectItem__desc">{desc}</p>
