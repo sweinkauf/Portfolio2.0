@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio2.0/static/css/main.061cc75a.css",
+    "main.js": "/Portfolio2.0/static/js/main.94a89a3d.js",
+    "static/media/oldPortfolio.png": "/Portfolio2.0/static/media/oldPortfolio.14c525a39d52e4fbc62d.png",
+    "static/media/IMG_9926.JPG": "/Portfolio2.0/static/media/IMG_9926.6e6f0ceed85a62c1d714.JPG",
+    "static/media/resume.pdf": "/Portfolio2.0/static/media/resume.e630848ba937779597ac.pdf",
+    "static/media/MovieTracker.png": "/Portfolio2.0/static/media/MovieTracker.5edddc2d90b8724f8c8e.png",
+    "static/media/CodeNet.png": "/Portfolio2.0/static/media/CodeNet.41b74cfa2c6c334fa91b.png",
+    "static/media/NoteTaker.png": "/Portfolio2.0/static/media/NoteTaker.cbff549b7ddc8014cec0.png",
+    "static/media/passwordGen.png": "/Portfolio2.0/static/media/passwordGen.e06168c3a0949dd66b63.png",
+    "index.html": "/Portfolio2.0/index.html",
+    "main.061cc75a.css.map": "/Portfolio2.0/static/css/main.061cc75a.css.map",
+    "main.94a89a3d.js.map": "/Portfolio2.0/static/js/main.94a89a3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.061cc75a.css",
+    "static/js/main.94a89a3d.js"
+  ]
+}
